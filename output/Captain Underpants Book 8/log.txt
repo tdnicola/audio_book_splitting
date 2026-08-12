@@ -1,0 +1,36 @@
+Processing "Captain Underpants Book 8.mp3"...
+  Loading audio (decoding via ffmpeg)...
+  Loaded in 19s.
+  Detecting silence gaps (74.4 min of audio)...
+  Silence scan complete in 1s: 32 gap(s) found.
+  29 chapter(s) detected.
+    Exported Chapter 1.mp3 (00:04:42) [1/29]
+    Exported Chapter 2.mp3 (00:02:23) [2/29]
+    Exported Chapter 3.mp3 (00:03:26) [3/29]
+    Exported Chapter 4.mp3 (00:03:34) [4/29]
+    Exported Chapter 5.mp3 (00:02:45) [5/29]
+    Exported Chapter 6.mp3 (00:03:32) [6/29]
+    Exported Chapter 7.mp3 (00:01:54) [7/29]
+    Exported Chapter 8.mp3 (00:01:08) [8/29]
+    Exported Chapter 9.mp3 (00:04:43) [9/29]
+    Exported Chapter 10.mp3 (00:02:56) [10/29]
+    Exported Chapter 11.mp3 (00:02:46) [11/29]
+    Exported Chapter 12.mp3 (00:01:59) [12/29]
+    Exported Chapter 13.mp3 (00:01:48) [13/29]
+    Exported Chapter 14.mp3 (00:01:41) [14/29]
+    Exported Chapter 15.mp3 (00:01:42) [15/29]
+    Exported Chapter 16.mp3 (00:06:59) [16/29]
+    Exported Chapter 17.mp3 (00:01:30) [17/29]
+    Exported Chapter 18.mp3 (00:01:45) [18/29]
+    Exported Chapter 19.mp3 (00:02:28) [19/29]
+    Exported Chapter 20.mp3 (00:01:09) [20/29]
+    Exported Chapter 21.mp3 (00:03:10) [21/29]
+    Exported Chapter 22.mp3 (00:02:06) [22/29]
+    Exported Chapter 23.mp3 (00:01:17) [23/29]
+    Exported Chapter 24.mp3 (00:02:13) [24/29]
+    Exported Chapter 25.mp3 (00:01:26) [25/29]
+    Exported Chapter 26.mp3 (00:01:24) [26/29]
+    Exported Chapter 27.mp3 (00:02:42) [27/29]
+    Exported Chapter 28.mp3 (00:02:26) [28/29]
+    Exported Chapter 29.mp3 (00:02:32) [29/29]
+  SUCCESS: 29 chapter file(s) created -> C:\Users\there\OneDrive\Documents\repos\audio_book_splitting\output\Captain Underpants Book 8
